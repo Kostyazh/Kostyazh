@@ -7,6 +7,7 @@ Front-End Developer
 * 🌍  I'm based in Kiev
 * ✉️  You can contact me at [zhebelev.konstantin@gmail.com](mailto:zhebelev.konstantin@gmail.com)
 * 🧠  I'm learning I\`m learning TypeScript
+* 👨‍💻  <a href="https://codepen.io/lakostaz" target="_blank" rel="noreferrer">CodePen</a>
 
 ### Skills
 
